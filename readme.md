@@ -1,1 +1,2 @@
-Aquí irán las instrucciones de instalación de mi proyecto. 
+M02_python
+Ejercicios varios usando lenguaje python.
